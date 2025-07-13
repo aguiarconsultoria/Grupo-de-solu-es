@@ -1,0 +1,151 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Aguiar Consultoria - Grupo de Soluções</title>
+  <style>
+    body {
+      margin: 0;
+      font-family: Arial, sans-serif;
+      background-color: #fdfdf9;
+      color: #333;
+    }
+    header {
+      background-color: #2f4f4f;
+      color: #fff;
+      padding: 20px;
+    }
+    header h1 {
+      margin: 0;
+      font-size: 1.8em;
+    }
+    nav a {
+      color: #fff;
+      text-decoration: none;
+      margin-right: 20px;
+      font-weight: bold;
+    }
+    nav {
+      margin-top: 10px;
+    }
+    section {
+      padding: 40px 20px;
+      max-width: 900px;
+      margin: auto;
+    }
+    h2 {
+      color: #5a3825;
+      border-bottom: 2px solid #d2b48c;
+      padding-bottom: 5px;
+    }
+    .cta {
+      background-color: #d2b48c;
+      color: #fff;
+      padding: 10px 20px;
+      text-decoration: none;
+      display: inline-block;
+      margin-top: 20px;
+      border-radius: 5px;
+    }
+    footer {
+      background-color: #2f4f4f;
+      color: #fff;
+      text-align: center;
+      padding: 20px;
+      font-size: 0.9em;
+    }
+    ul {
+      line-height: 1.8;
+    }
+    .steps {
+      background-color: #f4f1ec;
+      padding: 20px;
+      border-radius: 8px;
+      margin-top: 20px;
+    }
+  </style>
+</head>
+<body>
+
+<header>
+  <h1>Aguiar Consultoria – Grupo de Soluções</h1>
+  <nav>
+    <a href="#home">Home</a>
+    <a href="#sobre">Sobre nós</a>
+    <a href="#servicos">Serviços</a>
+    <a href="#como-funciona">Como funciona</a>
+    <a href="#contato">Contato</a>
+  </nav>
+</header>
+
+<section id="home">
+  <h2>Serviços cartorários 100% online</h2>
+  <p>Solicite certidões, pesquisas de protesto, imóveis e muito mais — sem sair de casa. Nós cuidamos de tudo para você.</p>
+  <ul>
+    <li>📜 Certidões oficiais</li>
+    <li>🏛️ Pesquisas em esferas federais, estaduais e municipais</li>
+    <li>🗂️ Atendimento rápido e sem burocracia</li>
+  </ul>
+  <a class="cta" href="#contato">Peça Agora</a>
+</section>
+
+<section id="sobre">
+  <h2>Quem Somos</h2>
+  <p>A Aguiar Consultoria - Grupo de Soluções é especialista em serviços cartorários externos e consultoria 100% online.</p>
+  <p>Facilitamos a vida dos nossos clientes ao cuidar de toda a parte burocrática, permitindo que você resolva tudo sem sair de casa.</p>
+  <ul>
+    <li><strong>Missão:</strong> Oferecer serviços cartorários e consultoria com comodidade, segurança e agilidade.</li>
+    <li><strong>Visão:</strong> Ser referência nacional em soluções cartorárias online.</li>
+    <li><strong>Valores:</strong> Ética, confiabilidade, agilidade, comodidade, excelência no atendimento.</li>
+  </ul>
+</section>
+
+<section id="servicos">
+  <h2>Serviços</h2>
+  <ul>
+    <li>✔ Solicitação de certidões cartorárias oficiais (nascimento, casamento, óbito, protesto, negativas, etc.)</li>
+    <li>✔ Pesquisa de protestos em todo o Brasil</li>
+    <li>✔ Pesquisa de imóveis: matrículas, ônus, certidões de propriedade</li>
+    <li>✔ Pesquisa de empresas: regularidade, CNPJ, débitos fiscais, certidões negativas</li>
+    <li>✔ Consultas em esferas federais, estaduais e municipais</li>
+    <li>✔ Despacho cartorário completo: você não precisa se preocupar com nada</li>
+  </ul>
+  <a class="cta" href="#contato">Solicite agora mesmo</a>
+</section>
+
+<section id="como-funciona">
+  <h2>Como Funciona</h2>
+  <div class="steps">
+    <p>1️⃣ <strong>Solicite online</strong><br>
+    Preencha nosso formulário ou entre em contato pelo WhatsApp.</p>
+    <p>2️⃣ <strong>Nós cuidamos de tudo</strong><br>
+    Realizamos todas as buscas, despachos e trâmites cartorários.</p>
+    <p>3️⃣ <strong>Receba no conforto de sua casa</strong><br>
+    Enviamos os documentos físicos ou digitais para você em qualquer lugar do Brasil.</p>
+  </div>
+  <p>✅ Simples, seguro e sem burocracia.</p>
+</section>
+
+<section id="contato">
+  <h2>Contato</h2>
+  <p>📲 WhatsApp: <strong>[Seu número aqui]</strong></p>
+  <p>📧 E-mail: <strong>[Seu e-mail aqui]</strong></p>
+  <p>🌐 Atendimento 100% online para todo o Brasil</p>
+  <p><strong>Formulário de contato:</strong></p>
+  <ul>
+    <li>Nome:</li>
+    <li>E-mail:</li>
+    <li>Telefone:</li>
+    <li>Mensagem:</li>
+  </ul>
+  <a class="cta" href="mailto:[Seu e-mail aqui]">Enviar mensagem por e-mail</a>
+  <p><strong>Horário de atendimento:</strong> Segunda a sexta, das [horário]</p>
+</section>
+
+<footer>
+  © 2025 Aguiar Consultoria - Grupo de Soluções. Todos os direitos reservados.
+</footer>
+
+</body>
+</html>
